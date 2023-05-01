@@ -6,7 +6,7 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 ```bibtex
  @article{Persianmining, 
-    title={Textual summarization of persian corpus by co-clustering algorithms.}, 
+    title={Hybrid co-clustering algorithm based on relation between Bregman divergence and expoenetial family.}, 
     DOI={Preprint}, 
     journal={preprint}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
