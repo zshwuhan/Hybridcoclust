@@ -1,5 +1,7 @@
 ## Brief description of models
-
+	\begin{equation}
+	\mathbf{X} \approx \mathbf{\Theta},
+\end{equation}
 
 ## Cite
 Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
