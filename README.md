@@ -6,7 +6,7 @@ Please cite the following paper in your publication if you are using [Hybridcocl
 
 ```bibtex
  @article{Hybridcoclust, 
-    title={Hybrid co-clustering algorithm based on relation between Bregman divergence and expoenetial family.}, 
+    title={One Equivalence Between Exponential Family Latent Block Model and Bregman Non-negative Matrix Tri-factorization for Co-clustering.}, 
     DOI={Preprint}, 
     journal={preprint}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
