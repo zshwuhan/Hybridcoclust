@@ -1,8 +1,11 @@
 ## Brief description of models
-```math
-	$$\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
-\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
 
+- **Structure**
+```math
+\begin{equation}
+\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
+\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
+\end{equation}
 ```
 
 
