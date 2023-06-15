@@ -9,8 +9,8 @@
 ```
 -- **Objective Function**
 ```math
-\begin{align*}\label{equ:NMTF_Bregman}
-	\underset{\mathbf{R} \geqslant 0,B_{\mathbf{A}}, \mathbf{C} \geqslant 0}{\arg\min}
+\begin{align*}
+	\underset{\mathbf{R},B_{\mathbf{A}}, \mathbf{C} > 0}{\arg\min}
 	D_{F^*}(\mathbf{X};\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top})
 	-\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m} -
 	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n},
