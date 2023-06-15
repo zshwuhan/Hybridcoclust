@@ -30,8 +30,28 @@
 	\mathbf{1}^{\top}_{g}(\mathbf{R}^{\top}S_{\mathbf{X}}\mathbf{C} \odot  B_{\mathbf{A}} -  F_{\mathbf{A}})\mathbf{1}_{s}.
 \end{align*}
 ```
-
-
+- **Hybrid objective function**
+```math
+\begin{align*}
+	\underset{\mathbf{R},\mathbf{C}, \mathbf{A}}{\arg\max} \;
+	L(\mathbf{R},\mathbf{C};  \boldsymbol{\pi}, \boldsymbol{\rho}, \mathbf{A} )&=	\underset{\mathbf{R},\mathbf{C}, \mathbf{A}}{\arg\min} \;
+	D_{F^*}(\mathbf{X};\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top})
+	-\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m} -
+	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n}\nonumber\\
+	&\propto	\underset{\mathbf{R},\mathbf{C}, B_{\mathbf{A}}}{\arg\max}	\;
+	Tr\left(
+		(\nabla F^{*}_{\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}})^{\top}
+		(
+		\mathbf{X} - \mathbf{R}B_{\mathbf{A}} \mathbf{C}^{\top}
+		)
+		\right)	
+		+
+		\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m} 
+		+
+		\log_{\boldsymbol{\rho}}
+		\mathbf{C}^{\top}\mathbf{1}_{n}
+\end{align*}
+```
 ## Cite
 Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
 
