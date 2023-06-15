@@ -2,12 +2,20 @@
 
 - **Structure**
 ```math
-	\begin{align}
+	\begin{align*}
 		\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
 			\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top},
-	\end{align}
+	\end{align*}
 ```
-
+-- **Objective Function**
+```math
+\begin{align*}\label{equ:NMTF_Bregman}
+	\underset{\mathbf{R} \geqslant 0,B_{\mathbf{A}}, \mathbf{C} \geqslant 0}{\arg\min}
+	D_{F^*}(\mathbf{X};\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top})
+	-\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m} -
+	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n},
+\end{algin*}
+```
 
 ## Cite
 Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
