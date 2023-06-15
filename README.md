@@ -28,5 +28,11 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 [6] [Cichocki et al, Non-negative matrix factorization with $\alpha$-divergence (2008), Pattern Recognition Letters.](https://www.sciencedirect.com/science/article/abs/pii/S0167865508000767)
 
-[7] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Preprint.
+[7] [Saeid, Hoseinipour et al, Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering (2023), Expert Systems With Application.](https://doi.org/10.1016/j.eswa.2023.120680)
+
+[8] [Saeid, Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Stat (preprint).]()
+
+[9] [Saeid, Hoseinipour et al, Orthogonal Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Co-clustering (2023), Iranian Journal of Science and Technology, Transactions of Electrical Engineering (preprint).]()
+
+
 
