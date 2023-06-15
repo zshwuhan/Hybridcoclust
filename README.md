@@ -7,7 +7,7 @@
 			\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top},
 	\end{align*}
 ```
--- **Objective Function**
+- **Bregman objective function**
 ```math
 \begin{align*}
 	\underset{\mathbf{R},B_{\mathbf{A}}, \mathbf{C} > 0}{\arg\min}
@@ -16,6 +16,21 @@
 	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n},
 \end{align*}
 ```
+
+- **Complete log-likelihood function**
+```math
+\begin{equation*}
+\underset{\mathbf{R},B_{\mathbf{A}}, \mathbf{C} > 0}{\arg\max}
+	L(\mathbf{R},\mathbf{C}; \boldsymbol{\pi}, \boldsymbol{\rho}, \mathbf{A})
+	\propto
+	\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m}
+		+
+	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n}
+	+
+	\mathbf{1}^{\top}_{g}(\mathbf{R}^{\top}S_{\mathbf{X}}\mathbf{C} \odot  B_{\mathbf{A}} -  F_{\mathbf{A}})\mathbf{1}_{s}.
+\end{equation*}
+```
+
 
 ## Cite
 Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
