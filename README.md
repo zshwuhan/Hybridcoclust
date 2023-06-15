@@ -1,5 +1,5 @@
 ## Brief description of models
-	\begin{equation}
+\begin{equation}
 	\mathbf{X} \approx \mathbf{\Theta},
 \end{equation}
 
