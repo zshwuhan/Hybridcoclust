@@ -1,7 +1,10 @@
 ## Brief description of models
-\begin{equation}
-	\mathbf{X} \approx \mathbf{\Theta},
-\end{equation}
+```math
+	\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
+\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top},
+
+```
+
 
 ## Cite
 Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
