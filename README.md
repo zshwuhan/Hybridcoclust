@@ -19,7 +19,7 @@
 
 - **Complete log-likelihood function**
 ```math
-\begin{equation*}
+\begin{align*}
 \underset{\mathbf{R},B_{\mathbf{A}}, \mathbf{C} > 0}{\arg\max}
 	L(\mathbf{R},\mathbf{C}; \boldsymbol{\pi}, \boldsymbol{\rho}, \mathbf{A})
 	\propto
@@ -28,7 +28,7 @@
 	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n}
 	+
 	\mathbf{1}^{\top}_{g}(\mathbf{R}^{\top}S_{\mathbf{X}}\mathbf{C} \odot  B_{\mathbf{A}} -  F_{\mathbf{A}})\mathbf{1}_{s}.
-\end{equation*}
+\end{align*}
 ```
 
 
