@@ -4,7 +4,7 @@
 ```math
 	\begin{align}
 		\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
-			\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
+			\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top},
 	\end{align}
 ```
 
