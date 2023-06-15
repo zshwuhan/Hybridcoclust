@@ -14,7 +14,7 @@
 	D_{F^*}(\mathbf{X};\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top})
 	-\log_{\boldsymbol{\pi}} \mathbf{R}^{\top}\mathbf{1}_{m} -
 	\log_{\boldsymbol{\rho}}\mathbf{C}^{\top}\mathbf{1}_{n},
-\end{algin*}
+\end{align*}
 ```
 
 ## Cite
