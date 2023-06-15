@@ -2,7 +2,7 @@
 
 
 ## Cite
-Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
+Please cite the following paper in your publication if you are using [Hybridcoclust]() in your research:
 
 ```bibtex
  @article{Hybridcoclust, 
