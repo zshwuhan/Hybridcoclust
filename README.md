@@ -64,6 +64,10 @@ Please cite the following paper in your publication if you are using [Hybridcocl
     year={2023}
 } 
 ```
+
+## Visulazation 
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/Doc/Image/WC_1_5_bold_31_32_11_22_33_v2.png?raw=true" width="100%">
 ## References
 
 [1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
