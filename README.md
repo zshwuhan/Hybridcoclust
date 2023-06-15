@@ -5,7 +5,7 @@
 Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
 
 ```bibtex
- @article{Persianmining, 
+ @article{Hybridcoclust, 
     title={Hybrid co-clustering algorithm based on relation between Bregman divergence and expoenetial family.}, 
     DOI={Preprint}, 
     journal={preprint}, 
