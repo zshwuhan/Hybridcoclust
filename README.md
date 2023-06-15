@@ -1,7 +1,7 @@
 ## Brief description of models
 ```math
-	\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
-\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top},
+	$$\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
+\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
 
 ```
 
