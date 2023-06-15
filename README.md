@@ -2,10 +2,10 @@
 
 - **Structure**
 ```math
-\begin{equation}
-\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
-\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
-\end{equation}
+	\begin{align}
+		\mathbf{X} \approx \mathbf{\Theta}= \boldsymbol{\beta} \odot
+			\mathbf{R} B_{\mathbf{A}} \mathbf{C}^{\top}$$,
+	\end{align}
 ```
 
 
