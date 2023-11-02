@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
-[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Hybride/Coclust/black?icon=instgrame)](https://github.com/Saeidhoseinipour/NMTFcoclust/tree/master/Models)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Hybride/Coclust/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Hybridcoclust/blob/master/Models/Hybridcoclust.py)
 
 ## Brief description of models
 
