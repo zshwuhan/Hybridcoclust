@@ -1,5 +1,3 @@
-
-(https://www.sciencedirect.com/science/article/abs/pii/S095741742301182X)  
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Hybride/Coclust/black?icon=instgrame)](https://github.com/Saeidhoseinipour/NMTFcoclust/tree/master/Models)
 
