@@ -10,7 +10,7 @@ Hybrid Exponential Family
 """
 
 # Author: Hoseinipour Saeid <saeidhoseinipour@aut.ac.ir>  
-#							<saeidhoseinipour9@gmail.com>     
+#			    <saeidhoseinipour9@gmail.com>     
 
 # License: ??????????
 
