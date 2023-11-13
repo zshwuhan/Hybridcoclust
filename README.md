@@ -62,7 +62,7 @@ Please cite the following paper in your publication if you are using [`Hybridcoc
  @article{Hybridcoclust, 
     title={One Equivalence Between Exponential Family Latent Block Model and Bregman Non-negative Matrix Tri-factorization for Co-clustering.}, 
     DOI={Preprint}, 
-    journal={preprint}, 
+    journal={journal of Machine Learning Research}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
     year={2023}
 } 
